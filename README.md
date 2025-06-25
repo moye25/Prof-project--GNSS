@@ -1,5 +1,4 @@
 # Prof-project--GNSS
-#  Project Documentations
 
 This repository contains the compiled documentation for a comparative GNSS positioning analysis project using smartphone devices. The project evaluates the **accuracy and reliability of GPS data** captured from different phones under various environmental and hardware conditions.
 
